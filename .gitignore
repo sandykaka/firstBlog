@@ -5,3 +5,5 @@ testDjango
 db.sqlite3
 /static
 .DS_Store
+include
+bin
